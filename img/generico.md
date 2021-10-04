@@ -1,0 +1,1 @@
+Esse arquivo só esta aqui para poderem vizualizar esta pasta. Pois, uma pasta vazia não é mostrada no git. 
